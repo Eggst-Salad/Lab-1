@@ -28,6 +28,7 @@ public:
 
 int main(void)
 {
+    //hello world lol
     Triangle Tri;
     Tri.setWidth(5);
     Tri.setHeight(7);
@@ -35,5 +36,6 @@ int main(void)
     // Print the area of the object.
     cout << "Total Triangle area: " << Tri.getArea() << endl;
  return 0;
+
 }
 
